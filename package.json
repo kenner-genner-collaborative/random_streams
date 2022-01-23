@@ -1,0 +1,19 @@
+{
+  "name": "moviewatchlist",
+  "version": "1.0.0",
+  "description": "App that allows a user to track movies watched and keep a wish list of movies they want to watch. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenner-genner-collaborative/random_streams.git"
+  },
+  "author": "Kennner&Genner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenner-genner-collaborative/random_streams/issues"
+  },
+  "homepage": "https://github.com/kenner-genner-collaborative/random_streams#readme"
+}

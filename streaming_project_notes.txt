@@ -1,0 +1,8 @@
+This will be the step by step process for the development
+  future use to share via blog or article 
+
+ 1. setup Repo in GitHub
+ 2. Clone down repository
+ 3. map out data models (excel,paper,etc)
+ 4. wireframe 
+ 5. set up node  
